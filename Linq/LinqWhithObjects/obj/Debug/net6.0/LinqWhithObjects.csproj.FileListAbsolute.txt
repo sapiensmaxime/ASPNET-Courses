@@ -1,0 +1,15 @@
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\LinqWhithObjects.exe
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\LinqWhithObjects.deps.json
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\LinqWhithObjects.runtimeconfig.json
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\LinqWhithObjects.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\ref\LinqWhithObjects.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\bin\Debug\net6.0\LinqWhithObjects.pdb
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.csproj.AssemblyReference.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.AssemblyInfoInputs.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.AssemblyInfo.cs
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.csproj.CoreCompileInputs.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\ref\LinqWhithObjects.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.pdb
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWhithObjects\obj\Debug\net6.0\LinqWhithObjects.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\LinqWithSets.exe
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\LinqWithSets.deps.json
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\LinqWithSets.runtimeconfig.json
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\LinqWithSets.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\ref\LinqWithSets.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\bin\Debug\net6.0\LinqWithSets.pdb
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\ref\LinqWithSets.dll
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.pdb
+C:\Users\33659\Desktop\cours ASPNET\Linq\LinqWithSets\obj\Debug\net6.0\LinqWithSets.genruntimeconfig.cache
